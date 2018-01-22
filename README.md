@@ -4,6 +4,7 @@
 2. Include last version of **jQuery**
 3. Include debouncing function from John Hann through jquery plugin **jquery.smartresize.min.js**
 4. Include JCSABFIX plugin **jquery.jcsabfix.min.js**
+5. Initialize JCSABFIX plugin
 
 ## Example
 
